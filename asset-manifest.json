@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/martian_madness/static/css/main.ff7c3ae5.chunk.css",
+    "main.js": "/martian_madness/static/js/main.d5c0fa05.chunk.js",
+    "main.js.map": "/martian_madness/static/js/main.d5c0fa05.chunk.js.map",
+    "runtime-main.js": "/martian_madness/static/js/runtime-main.71becaf2.js",
+    "runtime-main.js.map": "/martian_madness/static/js/runtime-main.71becaf2.js.map",
+    "static/js/2.58589d47.chunk.js": "/martian_madness/static/js/2.58589d47.chunk.js",
+    "static/js/2.58589d47.chunk.js.map": "/martian_madness/static/js/2.58589d47.chunk.js.map",
+    "index.html": "/martian_madness/index.html",
+    "precache-manifest.96a1920dbfb26c740b34c456c2fffcdb.js": "/martian_madness/precache-manifest.96a1920dbfb26c740b34c456c2fffcdb.js",
+    "service-worker.js": "/martian_madness/service-worker.js",
+    "static/css/main.ff7c3ae5.chunk.css.map": "/martian_madness/static/css/main.ff7c3ae5.chunk.css.map",
+    "static/js/2.58589d47.chunk.js.LICENSE.txt": "/martian_madness/static/js/2.58589d47.chunk.js.LICENSE.txt",
+    "static/media/clear-giga.png": "/martian_madness/static/media/clear-giga.72da254f.png",
+    "static/media/style.scss": "/martian_madness/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/features-split-image-01.png": "/martian_madness/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/martian_madness/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/martian_madness/static/media/features-split-image-03.87e4d053.png",
+    "static/media/features-split-image-04.png": "/martian_madness/static/media/features-split-image-04.b69c0b68.png",
+    "static/media/features-split-image-05.png": "/martian_madness/static/media/features-split-image-05.371482a3.png",
+    "static/media/features-split-image-06.png": "/martian_madness/static/media/features-split-image-06.d3af5ba3.png",
+    "static/media/features-split-image-07.png": "/martian_madness/static/media/features-split-image-07.e903012a.png",
+    "static/media/img-placeholder.png": "/martian_madness/static/media/img-placeholder.8d33c448.png",
+    "static/media/logo.svg": "/martian_madness/static/media/logo.feb82b7e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71becaf2.js",
+    "static/js/2.58589d47.chunk.js",
+    "static/css/main.ff7c3ae5.chunk.css",
+    "static/js/main.d5c0fa05.chunk.js"
+  ]
+}
