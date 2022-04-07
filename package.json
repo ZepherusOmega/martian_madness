@@ -1,7 +1,7 @@
 {
   "name": "open-react-template",
   "version": "0.1.0",
-  "homepage": "https://gigabit-eth.github.io/martian_madness",
+  "homepage": "https://gigabit-eth.github.io/martian_madness/",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
@@ -19,7 +19,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -b main -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
