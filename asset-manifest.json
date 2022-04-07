@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/martian_madness/static/css/main.ff7c3ae5.chunk.css",
-    "main.js": "/martian_madness/static/js/main.d5c0fa05.chunk.js",
-    "main.js.map": "/martian_madness/static/js/main.d5c0fa05.chunk.js.map",
+    "main.js": "/martian_madness/static/js/main.832aa0db.chunk.js",
+    "main.js.map": "/martian_madness/static/js/main.832aa0db.chunk.js.map",
     "runtime-main.js": "/martian_madness/static/js/runtime-main.71becaf2.js",
     "runtime-main.js.map": "/martian_madness/static/js/runtime-main.71becaf2.js.map",
     "static/js/2.58589d47.chunk.js": "/martian_madness/static/js/2.58589d47.chunk.js",
     "static/js/2.58589d47.chunk.js.map": "/martian_madness/static/js/2.58589d47.chunk.js.map",
     "index.html": "/martian_madness/index.html",
-    "precache-manifest.96a1920dbfb26c740b34c456c2fffcdb.js": "/martian_madness/precache-manifest.96a1920dbfb26c740b34c456c2fffcdb.js",
+    "precache-manifest.55b4e293c8d5c041a0999e528c3675f1.js": "/martian_madness/precache-manifest.55b4e293c8d5c041a0999e528c3675f1.js",
     "service-worker.js": "/martian_madness/service-worker.js",
     "static/css/main.ff7c3ae5.chunk.css.map": "/martian_madness/static/css/main.ff7c3ae5.chunk.css.map",
     "static/js/2.58589d47.chunk.js.LICENSE.txt": "/martian_madness/static/js/2.58589d47.chunk.js.LICENSE.txt",
@@ -28,6 +28,6 @@
     "static/js/runtime-main.71becaf2.js",
     "static/js/2.58589d47.chunk.js",
     "static/css/main.ff7c3ae5.chunk.css",
-    "static/js/main.d5c0fa05.chunk.js"
+    "static/js/main.832aa0db.chunk.js"
   ]
 }

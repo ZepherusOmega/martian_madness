@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5503b204cae2450a27dd6684b33480e0",
+    "revision": "3e925a644a44397f7ec566a8e46e453d",
     "url": "/martian_madness/index.html"
   },
   {
-    "revision": "2da7ede72c3e1a0509fd",
+    "revision": "cd69e41815ab34e81948",
     "url": "/martian_madness/static/css/main.ff7c3ae5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/martian_madness/static/js/2.58589d47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2da7ede72c3e1a0509fd",
-    "url": "/martian_madness/static/js/main.d5c0fa05.chunk.js"
+    "revision": "cd69e41815ab34e81948",
+    "url": "/martian_madness/static/js/main.832aa0db.chunk.js"
   },
   {
     "revision": "bbae3bbb2ac62fffb6cc",
