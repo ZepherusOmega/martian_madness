@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "186d67b84f9204243ecc3ea4a41aa391",
+    "revision": "73505530d5cfe90bb64569e6117da253",
     "url": "/index.html"
   },
   {
-    "revision": "abdcd7202f9142612ca3",
+    "revision": "39319f9cc3879f30bbdc",
     "url": "/static/css/main.dbbd59b4.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.58589d47.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "abdcd7202f9142612ca3",
-    "url": "/static/js/main.71866a3b.chunk.js"
+    "revision": "39319f9cc3879f30bbdc",
+    "url": "/static/js/main.d23016bc.chunk.js"
   },
   {
     "revision": "c307e69827cf23a9bfac",
@@ -32,32 +32,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cta-illustration.3ce357e7.svg"
   },
   {
-    "revision": "d9cb99ceb6a66250792ed78f5765325b",
-    "url": "/static/media/features-split-image-01.d9cb99ce.png"
+    "revision": "ffc760461a987b8c614759882e921975",
+    "url": "/static/media/features-split-image-04.ffc76046.png"
   },
   {
-    "revision": "3c569239f88160018f79029ba5dc227d",
-    "url": "/static/media/features-split-image-02.3c569239.png"
+    "revision": "d7c7c0a6e08c20b79f6142589a2783da",
+    "url": "/static/media/features-split-image-05.d7c7c0a6.png"
   },
   {
-    "revision": "87e4d053756c60c9f421195d8eafdbfe",
-    "url": "/static/media/features-split-image-03.87e4d053.png"
+    "revision": "4459bb89b64f35b85bc547a10421028e",
+    "url": "/static/media/features-split-image-06.4459bb89.png"
   },
   {
-    "revision": "b69c0b68f886a47813f05b3763e5e1a1",
-    "url": "/static/media/features-split-image-04.b69c0b68.png"
-  },
-  {
-    "revision": "371482a3dadf269c25e3e0da328e69b1",
-    "url": "/static/media/features-split-image-05.371482a3.png"
-  },
-  {
-    "revision": "d3af5ba34ba3a7198986fbb385ad53b6",
-    "url": "/static/media/features-split-image-06.d3af5ba3.png"
-  },
-  {
-    "revision": "e903012a5e1c553f96d701254c4cee29",
-    "url": "/static/media/features-split-image-07.e903012a.png"
+    "revision": "00af92152a92ec4c73e637a7558903ba",
+    "url": "/static/media/features-split-image-07.00af9215.png"
   },
   {
     "revision": "58dfbafee01d3711ed2f680c01bc9183",
