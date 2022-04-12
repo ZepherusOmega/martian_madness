@@ -1,30 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ca99755.chunk.css",
-    "main.js": "/static/js/main.48d804f5.chunk.js",
-    "main.js.map": "/static/js/main.48d804f5.chunk.js.map",
+    "main.css": "/static/css/main.f48ae6f0.chunk.css",
+    "main.js": "/static/js/main.dc7c80f6.chunk.js",
+    "main.js.map": "/static/js/main.dc7c80f6.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.b8b9f84b.js",
     "runtime-main.js.map": "/static/js/runtime-main.b8b9f84b.js.map",
-    "static/js/2.58589d47.chunk.js": "/static/js/2.58589d47.chunk.js",
-    "static/js/2.58589d47.chunk.js.map": "/static/js/2.58589d47.chunk.js.map",
+    "static/js/2.338535d4.chunk.js": "/static/js/2.338535d4.chunk.js",
+    "static/js/2.338535d4.chunk.js.map": "/static/js/2.338535d4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e3a977c5367f1db6e648891061e126d3.js": "/precache-manifest.e3a977c5367f1db6e648891061e126d3.js",
+    "precache-manifest.a05883e7573d38211123a1bad52526ae.js": "/precache-manifest.a05883e7573d38211123a1bad52526ae.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9ca99755.chunk.css.map": "/static/css/main.9ca99755.chunk.css.map",
-    "static/js/2.58589d47.chunk.js.LICENSE.txt": "/static/js/2.58589d47.chunk.js.LICENSE.txt",
-    "static/media/clear-giga.png": "/static/media/clear-giga.72da254f.png",
+    "static/css/main.f48ae6f0.chunk.css.map": "/static/css/main.f48ae6f0.chunk.css.map",
+    "static/js/2.338535d4.chunk.js.LICENSE.txt": "/static/js/2.338535d4.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/static/media/illustration-section-02.63d0555d.svg",
     "static/media/features-split-image-04.png": "/static/media/features-split-image-04.ffc76046.png",
-    "static/media/features-split-image-05.png": "/static/media/features-split-image-05.d7c7c0a6.png",
+    "static/media/features-split-image-05.png": "/static/media/features-split-image-05.c3665d19.png",
     "static/media/features-split-image-06.png": "/static/media/features-split-image-06.4459bb89.png",
     "static/media/features-split-image-07.png": "/static/media/features-split-image-07.00af9215.png",
-    "static/media/img-placeholder.png": "/static/media/img-placeholder.3e14502b.png",
-    "static/media/logo.svg": "/static/media/logo.feb82b7e.svg"
+    "static/media/gigabit.png": "/static/media/gigabit.3c973924.png",
+    "static/media/img-placeholder.png": "/static/media/img-placeholder.c5db1347.png",
+    "static/media/logo.svg": "/static/media/logo.feb82b7e.svg",
+    "static/media/monb.png": "/static/media/monb.b4798aee.png",
+    "static/media/zeph.png": "/static/media/zeph.5b149a2d.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b8b9f84b.js",
-    "static/js/2.58589d47.chunk.js",
-    "static/css/main.9ca99755.chunk.css",
-    "static/js/main.48d804f5.chunk.js"
+    "static/js/2.338535d4.chunk.js",
+    "static/css/main.f48ae6f0.chunk.css",
+    "static/js/main.dc7c80f6.chunk.js"
   ]
 }
