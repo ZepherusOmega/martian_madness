@@ -18,10 +18,10 @@ const FooterNav = ({
       className={classes}
     >
       <ul className="list-reset">
-        <li>
+        {/* <li>
           <a href="https://www.freepik.com/upklyak">Planet Design: upklyak</a>
         </li>
-        {/* <li>
+        <li>
           <Link to="#0">About us</Link>
         </li>
         <li>

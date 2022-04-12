@@ -1,7 +1,7 @@
 {
   "name": "open-react-template",
   "version": "0.1.0",
-  "homepage": "https://gigabit-eth.github.io/martian_madness/",
+  "homepage": "https://martianmadness.io",
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",

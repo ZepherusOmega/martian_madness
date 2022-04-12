@@ -62,7 +62,7 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                   <div className='team-member-img'>
-                    <img src={require('./../../assets/images/team/clear-giga.png')} alt="Martian Madness NFT" />
+                    <img src={require('./../../assets/images/team/zeph.png')} alt="Martian Madness NFT" />
                   </div>
                   <p className="text-sm-1 mb-0">
                   Our artist has been creating digital and traditional art from an early age and aims to visually tell the tale of Martian Madness.
@@ -82,10 +82,10 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                 <div className='team-member-img'>
-                    <img src={require('./../../assets/images/team/clear-giga.png')} alt="Martian Madness NFT" />
+                    <img src={require('./../../assets/images/team/gigabit.png')} alt="Martian Madness NFT" />
                   </div>
                   <p className="text-sm-1 mb-0">
-                    With years in programming, marketing and crypto, handbuilt the smart contract functionality of the collection.
+                    With years in programming, marketing and crypto, handbuilt the smart contract functionality and UI of the collection.
                   </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
@@ -102,10 +102,10 @@ const Testimonial = ({
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
                 <div className='team-member-img'>
-                    <img src={require('./../../assets/images/team/clear-giga.png')} alt="Martian Madness NFT" />
+                    <img src={require('./../../assets/images/team/monb.png')} alt="Martian Madness NFT" />
                   </div>
                   <p className="text-sm-1 mb-0">
-                  Our web developer brings a unique and critical perspective of beautiful and accessible UI, rivaled by none.
+                  Our web developer brings a unique and critical perspective of reliable and accessible infrastructure, rivaled by none.
                       </p>
                 </div>
                 <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">

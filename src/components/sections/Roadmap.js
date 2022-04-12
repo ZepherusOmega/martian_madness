@@ -50,7 +50,7 @@ const Roadmap = ({
   );
 
   const sectionHeader = {
-    title: 'The Road Map',
+    title: 'Let The Games Begin!',
     paragraph: 'Martian Madness NFT is a generative art project designed to give token holders a chance to earn big rewards through competitive games.'
   };
 

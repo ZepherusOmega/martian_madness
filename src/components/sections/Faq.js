@@ -75,11 +75,11 @@ const sectionHeader = {
                     </li>
                     <li>
                     <h4 className="text-xl font-medium mb-2">When is Martian Madness dropping?</h4>
-                    <p className="text-lg text-gray-400">To be announced.</p>
+                    <p className="text-lg text-gray-400">May 6, 2022</p>
                     </li>
                     <li>
                     <h4 className="text-xl font-medium mb-2">When Are My Martians Revealed?</h4>
-                    <p className="text-lg text-gray-400">To be announced.</p>
+                    <p className="text-lg text-gray-400">Instantly after mint.</p>
                     </li>
                     <li>
                     <h4 className="text-xl font-medium mb-2">Where Can I Find The Rarities Of My Martians?</h4>
