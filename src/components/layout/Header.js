@@ -151,7 +151,7 @@ const Header = ({
                       </a>
                       </li> */}
                       <li>
-                        <a href="http://discord.gg/jf5QejXfXg" className="button button-secondary button-wide-mobile button-sm" onClick={closeMenu}>Join Community</a>
+                        <a href="https://drive.google.com/file/d/1BWrm8nPZHXca8EmAUZXBkM3jw1IDHMOt/view?usp=sharing" className="button button-secondary button-wide-mobile button-sm" onClick={closeMenu}>Galaxy Paper</a>
                       </li>
                     </ul>}
                 </div>

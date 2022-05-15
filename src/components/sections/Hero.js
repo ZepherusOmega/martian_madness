@@ -70,7 +70,7 @@ const Hero = ({
               <div className="reveal-from-bottom" data-reveal-delay="600">
                 <ButtonGroup>
                   <Button tag="a" color="secondary" wideMobile href="https://mint.martianmadness.io" target="blank">
-                  <span className="text-color-black">Minting Soon</span>
+                  <span className="text-color-black">Click To Mint</span>
                     </Button>
                   {/* <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
                     View on Github
@@ -81,14 +81,14 @@ const Hero = ({
           </div>
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
-              data-video="https://player.vimeo.com/video/698399361"
+              data-video="https://player.vimeo.com/video/707130986"
               href="#0"
               aria-controls="video-modal"
               onClick={openModal}
             >
               <Image
                 className="has-shadow"
-                src={require('./../../assets/images/img-placeholder.png')}
+                src={require('./../../assets/images/video.png')}
                 alt="Hero"
                 width={896}
                 height={504} />
@@ -98,7 +98,7 @@ const Hero = ({
             id="video-modal"
             show={videoModalActive}
             handleClose={closeModal}
-            video="https://player.vimeo.com/video/698399361"
+            video="https://player.vimeo.com/video/707130986"
             videoTag="iframe" />
         </div>
       </div>
